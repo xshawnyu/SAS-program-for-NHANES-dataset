@@ -4,4 +4,4 @@
 #RESEARCH QUESTIONS:
 #After controlling for major demographic covariates, is there a correlation between 1. blood concentration of PFOS and thyroid disorder? 2. urine concentration of phthalates and thyroid disease status?
 
-#Part of project writeup, codes and representative figures are posted here. I will post the complete project once I had time to give it another run at the mothodology and codes.
+#Part of project writeup, code and representative figures are posted here. I will upload the complete project once I had time to give it another run at the mothodology and code.
